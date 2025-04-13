@@ -25,3 +25,5 @@ Debe tener cuidado de limitar la cantidad de información personal que revela a 
 
 
 Muchas personas piensan que si no tienen ninguna cuenta en redes sociales o en línea, entonces no tienen una identidad en línea. Este no es el caso. Si usa la web, tiene una identidad en línea.
+
+[[2. 💻 Qué es el Hacking]]

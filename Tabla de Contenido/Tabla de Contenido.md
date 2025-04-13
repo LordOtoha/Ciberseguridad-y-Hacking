@@ -19,6 +19,6 @@
 	[[5.3 🔐 Puertos y Protocolos]]
 			-[[5.3.1🔌 Lista de puertos de un PC]]
 [[6. 🛡️ Introducción a las Herramientas de la Ciberseguridad]]
-	-[[6.1 🛰️ Nmap]]
+	-[[6.1 🛰️ Nmap Explorador de redes para hacking ético y auditoría]]
 
 	
