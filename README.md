@@ -4,3 +4,6 @@
 ```python
 "Este repositorio nace desde el eco del conocimiento que debe ser compartido, no escondido. Aquí, _NyxVoid_ compila todo lo que un aprendiz del hacking ético debe saber, desde la oscuridad… hacia la claridad."
 ```
+
+
+[[Manifiesto]]
